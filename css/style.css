@@ -9,7 +9,7 @@
     }
 
     .header {
-        background-image: url(images/bg.jpg);
+        background-image: url(css/images/bg.jpg);
         height: 100vh;
         background-repeat: no-repeat;
         background-size: cover;
@@ -268,7 +268,7 @@
     }
 
     .black-block {
-    background-image: url(images/black-bg.jpg);
+    background-image: url(css/images/black-bg.jpg);
     padding: 80px 0;
     }
     .left-title {
@@ -339,7 +339,7 @@
     }
 
     .menu {
-        background-image: url(images/menu-bg.jpg);
+        background-image: url(css/images/menu-bg.jpg);
         background-repeat: no-repeat;
         background-size: cover  ;
         padding-bottom: 100px;
